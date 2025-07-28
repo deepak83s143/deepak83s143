@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+DevOps+Engineer;☁️+Cloud+Architect;🛠️+Infrastructure+Automation+Expert;🔧+Terraform+%7C+Azure+%7C+Kubernetes+Specialist)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=600&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=150&lines=🚀+DevOps+Engineer;☁️+Cloud+Architect;🛠️+Infrastructure+Automation+Engineer;🔧+Terraform+%7C+Azure+%7C+Kubernetes+Engineer)
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
