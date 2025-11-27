@@ -44,7 +44,7 @@ status: Always learning something new! 📚
 - [🚀 Azure Pipeline for Terraform Deployment &lpar;Dev &amp; Prod Environments&rpar;](https://dev.to/techmademi/azure-pipeline-4mhi)
 - [🚀 Terraform Module Example – Resource Group Creation on Azure](https://dev.to/techmademi/terraform-module-example-resource-group-creation-on-azure-281)
 - [🚀 Terraform Azure Infrastructure (Modular Architecture + DevSecOps)](https://dev.to/techmademi/terraform-azure-infrastructure-modular-architecture-devsecops-291p)
-- 
+  
 <!-- BLOG-POST-LIST:END -->
 ---
 ---
